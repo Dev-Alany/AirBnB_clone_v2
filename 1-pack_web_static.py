@@ -6,7 +6,6 @@ from fabric.api import local
 from datetime import datetime
 import os
 
-
 def do_pack():
     '''
     Generates a tgz archive from the

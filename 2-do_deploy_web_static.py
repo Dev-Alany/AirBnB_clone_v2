@@ -10,7 +10,6 @@ import os
 env.hosts = ['54.144.136.64', '100.24.236.179']
 env.user = 'ubuntu'
 
-
 def do_pack():
     '''
     Generates a tgz archive from the
